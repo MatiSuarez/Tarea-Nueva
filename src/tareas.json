@@ -1,0 +1,28 @@
+{
+    "tareas": [
+        {
+            "title": "Tarea 1",
+            "responsible": "Juan",
+            "description": "Descripcion",
+            "priority": "Prioridad Baja"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "Maria",
+            "description": "Descripcion 2",
+            "priority": "Prioridad Media"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Lucas",
+            "description": "Descripcion 3",
+            "priority": "Prioridad Alta"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "Florencia",
+            "description": "Descripcion 4",
+            "priority": "Prioridad Media"
+        }
+    ]
+}

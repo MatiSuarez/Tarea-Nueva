@@ -1,8 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import ReactDOM from 'react-dom'; //Galerias de React
+
+import './index.css'; //Estilos
+
+import App from './App'; //La aplicacion
+import * as serviceWorker from './serviceWorker'; // Aplicaciones que simulan datos de manera local (del servidor) Aplicaciones web progresivas
 
 ReactDOM.render(
   <React.StrictMode>
